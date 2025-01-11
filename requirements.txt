@@ -1,0 +1,4 @@
+typer
+Pillow
+pillow-heif
+rich
