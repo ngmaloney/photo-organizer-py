@@ -1,4 +1,5 @@
 .venv
 test/dest
+test/src
 __pycache__
 .DS_Store
