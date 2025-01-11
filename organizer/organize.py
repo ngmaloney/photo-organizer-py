@@ -66,7 +66,7 @@ def organize(src: str, dest: str, dry_run: bool, convert: bool, debug: bool):
 
         else:
           if(os.path.exists(destination_path)):
-            print(f"Skipping {file_path} as {destination_path} already exists")
+            print(f"Skipping {file_path} as {destination_path} already exists")w
             continue
 
           if(md5_hash not in copied_file_shas):
